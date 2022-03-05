@@ -1,4 +1,4 @@
-package Model.seeders;
+package Model.seeders;//первый комментарий Скляров в маин
 
 import Model.gamefield.Cell;
 import Model.gamefield.Direction;
