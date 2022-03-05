@@ -20,7 +20,7 @@ public class SimpleSeeder extends Seeder {
         }
     }
 
-    @Override
+    @Override//третий коммит в маин
     protected void seedUnits() {
 
         Cell underRobotCell = _field.robot().typedOwner();
